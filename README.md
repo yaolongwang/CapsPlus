@@ -1,4 +1,4 @@
-# Caps+ (CapsPlus) - CapsLock 键增强脚本
+# Caps+ (CapsPlus) - CapsLock 键增强工具
 
 Caps+ 是一个基于 AutoHotkey v2.0 的 CapsLock 增强脚本，通过将 CapsLock 键与其它按键组合，实现高效的方向键、数字小键盘、常用功能键等操作，提升键盘操作效率。
 
